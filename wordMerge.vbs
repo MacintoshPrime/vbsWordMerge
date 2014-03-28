@@ -1,7 +1,7 @@
 option explicit
 
 'Set Variables
-Dim args, argCount, base, merge, output, working, word
+Dim args, argCount, base, merge, working, word
 
 'Capture args and get arg count'
 Set args = WScript.Arguments
